@@ -4,6 +4,6 @@
     "watch": "nodemon -w ./src/GoveeController/pi --exec \"cp -R src\\GoveeController\\pi $APPDATA\\Elgato\\StreamDeck\\plugins\\com.geekyeggo.goveecontroller.sdPlugin\""
   },
   "devDependencies": {
-    "nodemon": "^2.0.20"
+    "nodemon": "^3.0.0"
   }
 }
